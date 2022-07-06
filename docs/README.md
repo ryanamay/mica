@@ -30,4 +30,4 @@ mica is heavily under development and is currently in stage `Base Development`, 
 mica is extensible and plugins can be loaded alongside the main app for additional features.
 the documentation of it and the entire app will be posted [here](https://docs.mica.one) as soon as it's available.
 
-<center><br><a  href="https://mica.one"><img  height="25" src="/docs/assets/mica-logo.png"/></a><br><a href="https://mica.one">mica.one</a> • by <a href="https://fuwa.sh">fuwaa</a></center>
+<p align="center"><br><a  href="https://mica.one"><img  height="25" src="/docs/assets/mica-logo.png"/></a><br><a href="https://mica.one">mica.one</a> • by <a href="https://fuwa.sh">fuwaa</a></p>
