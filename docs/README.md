@@ -1,4 +1,4 @@
-<a  href="https://mica.one"><img align="left" height="100" src="/docs/assets/mica-logo.png"/></a>
+<a  href="https://mica.one"><img align="left" height="110" src="/docs/assets/mica-logo.png"/></a>
 
 ### **mica**
 ![development status](https://img.shields.io/badge/status-dev-red) 
