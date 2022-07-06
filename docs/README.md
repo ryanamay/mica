@@ -8,8 +8,7 @@
 ![platform-linux](https://img.shields.io/badge/platform-linux-red)
 ![platform-android](https://img.shields.io/badge/platform-android-red)
 ![platform-ios](https://img.shields.io/badge/platform-iOS-red)
-
-<hr>
+<br><br>
 
 [mica](https://mica.one/) is a beautiful, extensible and smart calculator/toolkit capable of processing human readable input such as `101F to C` as well as standard input such as `9x10`.
 
